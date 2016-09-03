@@ -3,7 +3,7 @@
 MIT License
 
 
-After my kids forgot to turn off cellular data when playing Pokemon GO, I accidentally blew through $50 of data –not realizing my iPhone had decided not to connect to my home wi-fi. 
+After my kids forgot to turn off cellular data when playing Pokemon GO, I accidentally blew through $50 of data –not realizing my iPhone was ignoring my home wi-fi connection. 
 
 Again. Grr. 
 
